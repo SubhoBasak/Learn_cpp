@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1587988543 source:d:\playground\subho_dll_library\subho_dll\main.cpp
+	"subho_dll.h"
+	"func1.c"
+
+1587980699 source:d:\playground\subho_dll_library\subho_dll\subho_dll.rc
+
+1587984532 d:\playground\subho_dll_library\subho_dll\main.h
+	<windows.h>
+
+1587988581 d:\playground\subho_dll_library\subho_dll\subho_dll.h
+	<windows.h>
+
+1587988473 source:d:\playground\subho_dll_library\subho_dll\func1.c
+
+1587988473 d:\playground\subho_dll_library\subho_dll\func1.c
+
+1588145878 source:d:\playground\subho_dll_library\subho_dll\bin_tree.cpp
+	<iostream>
+	<windows.h>
+
+1588147785 source:d:\playground\subho_dll_library\subho_dll\linked_list.cpp
+	<iostream>
+	"linked_list.h"
+
+1588147676 d:\playground\subho_dll_library\subho_dll\linked_list.h
+	<windows.h>
+
